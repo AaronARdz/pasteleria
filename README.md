@@ -1,4 +1,17 @@
-# yummy
+# Pasteleria Yummy, Admin proyectos de software
+Dependencies: 
+  core-js
+  vue
+  vue-router
+  vuex
+  Bootstrap
+  
+Dev Dependenvies:
+  Babel
+  eslint
+  cli-service
+  babel-eslint
+  prettier
 
 ## Project setup
 ```
