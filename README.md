@@ -1,4 +1,5 @@
 # Pasteleria Yummy, Admin proyectos de software
+```
 Dependencies: 
   core-js
   vue
@@ -12,7 +13,7 @@ Dev Dependenvies:
   cli-service
   babel-eslint
   prettier
-
+```
 ## Project setup
 ```
 npm install
